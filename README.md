@@ -2,7 +2,7 @@
 <h3 align="center">A frontend web developer from Turkey</h3>
 <h4 align="center">I am intrested in Web Development. I like to learn new things and I am trying to improve myself everyday.</h4>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently trying to be better at **Frontend Development**
 
 - 📫 How to reach me **ahmetseeker@outlook.com**
 
